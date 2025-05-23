@@ -81,9 +81,9 @@ Si quieres hablar sobre proyectos, tecnología o emprendimiento, contáctame en:
 
 | Medio       | Información                                                                           |
 | ----------- | ------------------------------------------------------------------------------------- |
-| 📧 Email    | [mariosahuco097@gmail.com](mailto:mariosahuco097@gmail.com)                           |
-| 🔗 LinkedIn | [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) *(añade tu link real)* |
-| 🐙 GitHub   | [github.com/Marioskky](https://github.com/Marioskky)                                  |
+| 📧 Email    | [zaherpersonal@gmail.com](mailto:mariosahuco097@gmail.com)                           |
+| 🔗 LinkedIn | [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) |
+| 🐙 GitHub   | [github.com/Zaher171](https://github.com/Zaher171)                                  |
 
 ---
 

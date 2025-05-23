@@ -1,51 +1,100 @@
-👋 ¡Hola! Soy un estudiante y creador de proyectos tecnológicos
-🧠 Sobre mí
-Soy estudiante en Murcia, con una gran pasión por la tecnología, la programación, la organización de viajes y la creatividad narrativa. Me involucro en proyectos personales, académicos y de negocio, siempre buscando aprender más y aplicarlo en contextos reales.
+Claro, aquí tienes el README profesional y elaborado **con tus datos, escrito en primera persona**, para que sea un perfil sólido, claro y atractivo. Te lo pongo con tu nombre "Zaher" y estilo formal y moderno:
 
-🔧 Me interesa especialmente:
+---
 
-💻 Desarrollo de aplicaciones en Java con interfaz gráfica y conexión a bases de datos.
+# 👋 ¡Hola! Soy Zaher, estudiante y creador de soluciones tecnológicas
 
-🧩 Diseño de bases de datos relacionales complejas (MySQL) con estructuras realistas.
+---
 
-📊 Digitalización de procesos empresariales, aplicada a sectores como el audiovisual.
+## 🧠 Sobre mí
 
-✈️ Organización de viajes low cost con mi idea de negocio WorldTrips.
+Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Murcia, apasionado por la tecnología, la programación y la innovación. Me dedico a desarrollar proyectos que integran bases de datos, interfaces gráficas y procesos de digitalización para sectores reales y personales.
+Me encanta aprender, compartir conocimientos y aplicar lo que estudio en proyectos reales, desde software hasta iniciativas de negocio.
 
-🧠 Escritura creativa, enfocada en historias de superación personal y profundidad emocional.
+> “Creo firmemente que la tecnología es la herramienta que impulsa el cambio y la mejora constante en nuestra sociedad.”
 
-🎓 Formación y proyectos académicos
-🎓 1º DAW
-📚 Asignaturas destacadas:
+---
 
-Lenguaje de Marcas y Sistemas de Gestión de la Información
+## 🔭 Mis áreas de interés
 
-Digitalización Aplicada a los Sectores Productivos
+| Área                          | Descripción                                                                                                       |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 💻 Desarrollo Java            | Construcción de aplicaciones con interfaces gráficas (Java Swing) y gestión avanzada de bases de datos con MySQL. |
+| 🗄 Diseño de Bases de Datos   | Modelado, optimización y consultas SQL en bases de datos relacionales complejas.                                  |
+| 📊 Digitalización Empresarial | Implementación de procesos digitales aplicados a sectores audiovisuales y productivos.                            |
+| ✈️ Emprendimiento             | Gestión y organización de viajes low cost con mi proyecto personal **WorldTrips**.                                |
+| ✍️ Escritura Creativa         | Narrativas con enfoque emocional y temáticas de superación personal.                                              |
 
-Programación orientada a objetos (Java)
+---
 
-Gestión de Sistemas Operativos (Linux)
+## 🎓 Formación Académica
 
-📌 Proyectos relevantes:
+**Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
+Ubicación: Murcia
+Estado: Primer año (2024-2025)
 
-💻 Simulador de Liga Deportiva (Java + MySQL)
-Gestión completa de una liga ficticia de tenis: CRUD, consultas SQL, GUI integrada.
+### Asignaturas relevantes
 
-🏆 Base de Datos ‘furboh_2’ (MySQL)
-Modelo complejo para gestionar datos de fútbol profesional: jugadores, equipos, partidos, lesiones, transferencias…
+* Lenguaje de Marcas y Sistemas de Gestión de la Información
+* Digitalización Aplicada a los Sectores Productivos
+* Programación Orientada a Objetos (Java)
+* Gestión de Sistemas Operativos (Linux)
 
-🎬 Digitalización de Visual Show Solution S.L.
-Propuesta práctica de transformación digital de una empresa del sector escénico y audiovisual.
+---
 
-⚽ Pasiones personales
-⚽ Fútbol (antes fue mi mayor motivación 🔥)
+## 📂 Proyectos destacados
 
-🤾‍♂️ Futsal (entreno martes y jueves)
+| Proyecto                            | Descripción                                                                                            | Tecnologías              |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------ |
+| **Simulador de Liga Deportiva**     | Aplicación Java para gestionar una liga ficticia de tenis, con interfaz gráfica y base de datos MySQL. | Java, Swing, MySQL, JDBC |
+| **Base de Datos ‘furboh\_2’**       | Base de datos con datos realistas de fútbol profesional: jugadores, equipos, partidos, lesiones.       | MySQL, SQL               |
+| **Digitalización Visual Show S.L.** | Propuesta para la transformación digital de una empresa del sector audiovisual y escénico.             | Documentación, análisis  |
 
-🏋️ Gimnasio (organizo mi semana para mantener la constancia)
+---
 
-🛠️ Tecnologías y herramientas
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/> <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </p>
-📫 Contacto
-¿Quieres colaborar en proyectos, compartir ideas o necesitas ayuda técnica o creativa?
-¡Estoy abierto a nuevas conexiones!
+## ⚽ Intereses personales
+
+* ⚽ Fútbol, mi primera motivación deportiva y fuente de disciplina.
+* 🤾‍♂️ Futsal, con entrenamientos regulares los martes y jueves.
+* 🏋️ Gimnasio, con una rutina semanal para mantener salud y bienestar.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="XML" src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
+## 📫 Contacto
+
+Estoy abierto a colaboraciones, ideas y nuevas conexiones profesionales.
+Si quieres hablar sobre proyectos, tecnología o emprendimiento, contáctame en:
+
+| Medio       | Información                                                                           |
+| ----------- | ------------------------------------------------------------------------------------- |
+| 📧 Email    | [mariosahuco097@gmail.com](mailto:mariosahuco097@gmail.com)                           |
+| 🔗 LinkedIn | [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) *(añade tu link real)* |
+| 🐙 GitHub   | [github.com/Marioskky](https://github.com/Marioskky)                                  |
+
+---
+
+## 🚀 Mis objetivos
+
+* Mejorar mis habilidades en Java y desarrollo web.
+* Profundizar en automatización con Shell Script y Linux.
+* Consolidar mi proyecto **WorldTrips** para organizar viajes low cost.
+* Potenciar mi inglés técnico para entornos profesionales internacionales.
+
+---
+
+### ¡Gracias por visitar mi perfil! 👨‍💻
+

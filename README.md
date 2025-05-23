@@ -22,8 +22,6 @@ Me encanta aprender, compartir conocimientos y aplicar lo que estudio en proyect
 | 💻 Desarrollo Java            | Construcción de aplicaciones con interfaces gráficas (Java Swing) y gestión avanzada de bases de datos con MySQL. |
 | 🗄 Diseño de Bases de Datos   | Modelado, optimización y consultas SQL en bases de datos relacionales complejas.                                  |
 | 📊 Digitalización Empresarial | Implementación de procesos digitales aplicados a sectores audiovisuales y productivos.                            |
-| ✈️ Emprendimiento             | Gestión y organización de viajes low cost con mi proyecto personal **WorldTrips**.                                |
-| ✍️ Escritura Creativa         | Narrativas con enfoque emocional y temáticas de superación personal.                                              |
 
 ---
 

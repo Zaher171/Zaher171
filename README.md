@@ -89,8 +89,6 @@ Si quieres hablar sobre proyectos, tecnología o emprendimiento, contáctame en:
 
 * Mejorar mis habilidades en Java y desarrollo web.
 * Profundizar en automatización con Shell Script y Linux.
-* Consolidar mi proyecto **WorldTrips** para organizar viajes low cost.
-* Potenciar mi inglés técnico para entornos profesionales internacionales.
 
 ---
 

@@ -1,6 +1,3 @@
-Claro, aquí tienes el README profesional y elaborado **con tus datos, escrito en primera persona**, para que sea un perfil sólido, claro y atractivo. Te lo pongo con tu nombre "Zaher" y estilo formal y moderno:
-
----
 
 # 👋 ¡Hola! Soy Zaher, estudiante y creador de soluciones tecnológicas
 
